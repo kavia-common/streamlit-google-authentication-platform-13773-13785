@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/streamlit-google-authentication-platform-13773-13785/user_db"
+}
